@@ -6,12 +6,16 @@ Various cogs I've wrote and/or modified from other cogs.  Credit will be given w
 These are needed to be able to run **`<cog>`**.
 
 - [Python 3.6](https://www.python.org/)
-- [Discord.py](https://github.com/Rapptz/discord.py)
+- [Discord.py\[rewrite\]]https://github.com/Rapptz/discord.py/tree/rewrite)
 - [Your bot] This will run on Red-DiscordBot or other bots that support cogs.
 
 ## Setup
 
-Install to your ./cogs folder, the rest is up to you.
+1. Install to catfacts.py to your ./cogs folder
+2. Install catfacts.json to your bot root directory
+3. ???
+4. Profit
+
 
 ## Cogs
 
