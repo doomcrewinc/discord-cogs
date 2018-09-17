@@ -6,7 +6,7 @@ Various cogs I've wrote and/or modified from other cogs.  Credit will be given w
 These are needed to be able to run **`<cog>`**.
 
 - [Python 3.6](https://www.python.org/)
-- [Discord.py\[rewrite\]]https://github.com/Rapptz/discord.py/tree/rewrite)
+- [discord.py[rewrite]](https://github.com/Rapptz/discord.py/tree/rewrite "discord.py[rewrite]")
 - [Your bot] This will run on Red-DiscordBot or other bots that support cogs.
 
 ## Setup
